@@ -1,3 +1,7 @@
+![kanban1](https://user-images.githubusercontent.com/68942106/91779469-7cdc4700-ebaa-11ea-8da1-a088b00403fe.png)
+![kanban2](https://user-images.githubusercontent.com/68942106/91779481-882f7280-ebaa-11ea-91c1-0b96ecfabb5a.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
